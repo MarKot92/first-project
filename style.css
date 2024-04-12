@@ -1,0 +1,24 @@
+section {
+  width: 50%;
+  text-align: center;
+  background-color: aqua;
+}
+
+h1 {
+  color: brown;
+  font-size: 56px;
+}
+
+p{
+  font-size: 18px;
+  text-decoration: underline;
+}
+
+a{
+  padding: 20px;
+  margin-top: 30px;
+  display: inline-block;
+  color: black;
+  background-color: aquamarine;
+  text-decoration: none;
+}
